@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there I'm Davide Avesani👋
 
-<!--
-**aveklan/aveklan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year student in the master's degree program in engineering in computer science.  
+Software engineering and AI enthusiast
 
-Here are some ideas to get you started:
+## Following a list of personal projects and projects I took part in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal projects
+
+1. Single-page React application for counting votes in local community project elections.
+   - https://github.com/aveklan/progetto_carnevale
+   - https://www.elezionitzigano.it/
+2. Simple HTML5, CSS and JS website, accessible only from Italy
+   - https://github.com/aveklan/RealNoleggiWebsite
+   - http://www.realnoleggi.it/
+3. IOT project to develop a smart parking system
+   - https://github.com/aveklan/smart-parking
+
+### Group projects
+
+1. IOT system for Monitoring and Control System solution
+   - https://github.com/simonepascucci/IoT-Internet_of_Tunnel
+2. 3D browser videogame developed using Three.js library
+   - https://github.com/SapienzaInteractiveGraphicsCourse/final-project-pascucci-avesani
+3. Browser-based multiplayer video game that implements distributed systems algorithms:
+   - https://github.com/Fabrikh/MultiplayerGameProject
+
+## Contacts
+
+- LinkedIn : https://www.linkedin.com/in/davide-avesani-394835223/
+- Email: avesani55@gmail.com  
+  davide.avesani@eleve.isep.fr
